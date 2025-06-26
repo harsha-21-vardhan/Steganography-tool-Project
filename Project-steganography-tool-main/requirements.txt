@@ -1,0 +1,4 @@
+Pillow
+stepic
+tkinterdnd2
+pycryptodome
